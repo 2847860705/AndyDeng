@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.description = 'SVProgressHUD is an easy-to-use, clean and lightweight progress HUD for iOS. It’s a simplified and prettified alternative to the popular MBProgressHUD. The success and error icons are from Glyphish.'
 
-  s.source_files = 'AndyDeng/*.{h,m}'
+  s.source_files = 'CommonUtilitys/*.{h,m}'
   s.framework    = 'UIKit'
   s.requires_arc = true
 end
