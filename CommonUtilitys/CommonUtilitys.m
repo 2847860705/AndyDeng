@@ -34,6 +34,9 @@
     if (buttonIndex == 0) {
         NSLog(@"cancel");
     }
+    else {
+        NSLog(@"sure");
+    }
 }
 
 @end
